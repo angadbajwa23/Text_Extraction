@@ -63,6 +63,17 @@ output is:
 <img align="left" width="350" height="150" src=sentences/ex7_output.png>
 
 
+| Input Image |  Output |
+| ------------- | ------------- |
+| <img align="left" width="350" height="150" src=sentences/say.png> | <img align="left" width="350" height="150" src=sentences/terminal_output2.png> |
+| <img align="left" width="350" height="150" src=sentences/say3.png>  |<img align="left" width="350" height="150" src=sentences/terminal_ouput.png> |
+
+
+
+
+
+
+
 ## Contributors
 
 - Akarsh Malik
