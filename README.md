@@ -53,7 +53,8 @@ output is:
 
 
 The input image can contain special characters too:
-![](sentences/ex7.png)
+<! ![](sentences/ex7.png)  >
+<img align="left" width="100" height="100" src=sentences/ex7.png>
 
 output is:
 ![](sentences/terminal_output.png)
