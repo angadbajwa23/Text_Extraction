@@ -44,6 +44,20 @@ The input image can be of any number of words example:
 output is:
 ![](sentences/terminal_output.png)
 
+The input image can contain integers too:
+![](sentences/ex5.png)
+
+output is:
+![](sentences/terminal_output.png)
+
+
+
+The input image can contain special characters too:
+![](sentences/ex7.png)
+
+output is:
+![](sentences/terminal_output.png)
+
 
 ## Contributors
 
