@@ -37,10 +37,10 @@ Run the script on your terminal: 'python3 tesseract.py':
 
 | Input Image |  Output |
 | ------------- | ------------- |
-| <img align="left" width="350" height="150" src=sentences/say.png> | <img align="left" width="420" height="150" src=sentences/say_output.png> |
-| <img align="left" width="350" height="150" src=sentences/ex5.png> | <img align="left" width="420" height="150" src=sentences/ex5_output.png> |
-| <img align="left" width="350" height="150" src=sentences/ex7.png> | <img align="left" width="420" height="150" src=sentences/ex7_output.png> |
-| <img align="left" width="350" height="150" src=sentences/say3.png>  |<img align="left" width="420" height="150" src=sentences/say3_output.png> |
+| <img align="left" width="350" height="150" src=sentences/say.png> | <img align="left" width="420" height="50" src=sentences/say_output.png> |
+| <img align="left" width="350" height="150" src=sentences/ex5.png> | <img align="left" width="420" height="50" src=sentences/ex5_output.png> |
+| <img align="left" width="350" height="150" src=sentences/ex7.png> | <img align="left" width="420" height="50" src=sentences/ex7_output.png> |
+| <img align="left" width="350" height="150" src=sentences/say3.png>  |<img align="left" width="420" height="50" src=sentences/say3_output.png> |
 
 
 
