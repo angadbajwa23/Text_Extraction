@@ -40,32 +40,12 @@ output is (the predicted result is at the bottom):
 
 
 
-The input image can be of any number of words example:
-<img align="left" width="350" height="150" src=sentences/say3.png>
-
-output is:
-<img align="left" width="350" height="150" src=sentences/terminal_ouput.png>
-
-
-
-The input image can contain integers too:
-<img align="left" width="350" height="150" src=sentences/ex5.png>
-
-output is:
-<img align="left" width="350" height="150" src=ex5_output.png>
-
-
-
-The input image can contain special characters too:
-<img align="left" width="350" height="150" src=sentences/ex7.png>
-
-output is:
-<img align="left" width="350" height="150" src=sentences/ex7_output.png>
-
 
 | Input Image |  Output |
 | ------------- | ------------- |
-| <img align="left" width="350" height="150" src=sentences/say.png> | <img align="left" width="350" height="150" src=sentences/terminal_output2.png> |
+| <img align="left" width="350" height="150" src=sentences/say.png> | <img align="left" width="350" height="150" src=sentences/say_output.png> |
+| <img align="left" width="350" height="150" src=sentences/ex5.png> | <img align="left" width="350" height="150" src=sentences/ex5_output.png> |
+| <img align="left" width="350" height="150" src=sentences/ex7.png> | <img align="left" width="350" height="150" src=sentences/ex7_output.png> |
 | <img align="left" width="350" height="150" src=sentences/say3.png>  |<img align="left" width="350" height="150" src=sentences/terminal_ouput.png> |
 
 
