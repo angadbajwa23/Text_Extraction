@@ -21,7 +21,7 @@ import pytesseract
 '''
 Enter location of pytesseract (if error msg displayed)
 '''
-#pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 
 
