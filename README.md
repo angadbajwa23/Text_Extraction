@@ -32,21 +32,15 @@ NOTE1:- The trained model is not provided. So for the very first time run the sc
 
 Run the script on your terminal: 'python3 tesseract.py':
 
-input image is:
-<img align="left" width="350" height="150" src=sentences/say.png>
-
-output is (the predicted result is at the bottom):
-<img align="left" width="350" height="150" src=sentences/terminal_output2.png>
-
 
 
 
 | Input Image |  Output |
 | ------------- | ------------- |
-| <img align="left" width="350" height="150" src=sentences/say.png> | <img align="left" width="350" height="150" src=sentences/say_output.png> |
-| <img align="left" width="350" height="150" src=sentences/ex5.png> | <img align="left" width="350" height="150" src=sentences/ex5_output.png> |
-| <img align="left" width="350" height="150" src=sentences/ex7.png> | <img align="left" width="350" height="150" src=sentences/ex7_output.png> |
-| <img align="left" width="350" height="150" src=sentences/say3.png>  |<img align="left" width="350" height="150" src=sentences/terminal_ouput.png> |
+| <img align="left" width="350" height="150" src=sentences/say.png> | <img align="left" width="600" height="150" src=sentences/say_output.png> |
+| <img align="left" width="350" height="150" src=sentences/ex5.png> | <img align="left" width="600" height="150" src=sentences/ex5_output.png> |
+| <img align="left" width="350" height="150" src=sentences/ex7.png> | <img align="left" width="600" height="150" src=sentences/ex7_output.png> |
+| <img align="left" width="350" height="150" src=sentences/say3.png>  |<img align="left" width="600" height="150" src=sentences/say3_output.png> |
 
 
 
