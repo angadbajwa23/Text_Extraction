@@ -29,35 +29,38 @@ NOTE1:- The trained model is not provided. So for the very first time run the sc
                                           COMMENT OUT 'Train_Model()' then run the script for further use.
                                           
 
-![](sentences/sentence_format.png)
 
 Run the script on your terminal: 'python3 tesseract.py':
+
 input image is:
-![](sentences/say.png)
+<img align="left" width="350" height="150" src=sentences/say.png>
 
 output is (the predicted result is at the bottom):
-![](sentences/terminal_output2.png)
+<img align="left" width="350" height="150" src=sentences/terminal_output2.png>
+
+
 
 The input image can be of any number of words example:
-![](sentences/say3.png)
+<img align="left" width="350" height="150" src=sentences/say3.png>
 
 output is:
-![](sentences/terminal_output.png)
+<img align="left" width="350" height="150" src=sentences/terminal_ouput.png>
+
+
 
 The input image can contain integers too:
-![](sentences/ex5.png)
+<img align="left" width="350" height="150" src=sentences/ex5.png>
 
 output is:
-![](sentences/terminal_output.png)
+<img align="left" width="350" height="150" src=ex5_output.png>
 
 
 
 The input image can contain special characters too:
-<! ![](sentences/ex7.png)  >
 <img align="left" width="350" height="150" src=sentences/ex7.png>
 
 output is:
-![](sentences/terminal_output.png)
+<img align="left" width="350" height="150" src=sentences/ex7_output.png>
 
 
 ## Contributors
